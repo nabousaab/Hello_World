@@ -5,3 +5,6 @@ Common Repository - Just another one
   - I am self learner, focused, and dedicated. A top-down leader who always loves to be hands on, and part of a team play.
   - I started my indepth journey in Data Analysis in March 2020, and quickly was amazed with the empowerment & the value that this domain can provide.
   - I granduated _cirtified_ from OMAC & Udacity data_analysis track in June 2020, and opted to continue this journey with the NanoDegree.
+
+To know more about me [click here](https://www.linkedin.com/in/nizara/)
+### _looking ahead for a better me and a successful career path_  
