@@ -7,5 +7,5 @@ Common Repository - Just another one
   - I granduated _cirtified_ from OMAC & Udacity data_analysis track in June 2020, and opted to continue this journey with the NanoDegree.
 
 To know more abour me [click here](https://www.linkedin.com/in/nizara/)
-# _Hope this improves and infleunce my future career path_  
+### _Hope this improves and infleunce my future career path_  
 
